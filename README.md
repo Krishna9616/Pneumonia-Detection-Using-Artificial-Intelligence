@@ -9,7 +9,7 @@
 ![alt text](https://github.com/obaid001/Pneumonia_Detector/blob/main/samp.jpg?raw=true)
 
 ## Made by:
+- Krishna Kumar Bharti
 - Mohammad Obaid
 - Mayank Singh
 - Aniket Singh
-- Krishna Kumar
